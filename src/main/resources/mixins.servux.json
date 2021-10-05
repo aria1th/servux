@@ -7,7 +7,8 @@
         "IMixinCustomPayloadC2SPacket",
         "MixinMinecraftServer",
         "MixinServerPlayNetworkHandler",
-        "MixinThreadedAnvilChunkStorage"
+        "MixinThreadedAnvilChunkStorage",
+        "MixinBlockItemPlacement",
     ],
     "injectors": {
         "defaultRequire": 1
